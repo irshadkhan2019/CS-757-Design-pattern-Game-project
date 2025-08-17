@@ -12,8 +12,8 @@
 #define BRICK_WIDTH 50
 #define BRICK_HEIGHT 15
 
-// Brick params
-#define NUM_BRICKS_X 100
-#define NUM_BRICKS_Y 100
+// Brick params vary to see performance of flyweigh
+#define NUM_BRICKS_X 10
+#define NUM_BRICKS_Y 10
 
 #endif
